@@ -42,7 +42,7 @@ Download the repo and then follow the installation methods given below.
 
 ###### Step 1 - Cd over to the folder
 ###### Step 2 - npm i
-###### Step 3 - nodemo index.js
+###### Step 3 - nodemon index.js
 - In order to run the frontend follow the steps given in travel-diary-frontend repo.
 
 
